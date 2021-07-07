@@ -16,6 +16,7 @@
       <mapping pattern="dart" type="PLAIN_TEXT" />
       <mapping pattern="xflutter" type="PLAIN_TEXT" />
       <mapping pattern=".metadata" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="WORKBENCH@YOULIAO_TEST" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
