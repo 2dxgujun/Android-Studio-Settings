@@ -21,11 +21,11 @@
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="flutterw" type="PLAIN_TEXT" />
-      <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern="hpm" type="PLAIN_TEXT" />
+      <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping ext="dubai" type="PLAIN_TEXT" />
-      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="grovvy" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="afwealthhomepage" type="PLAIN_TEXT" />
       <mapping ext="tt" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
